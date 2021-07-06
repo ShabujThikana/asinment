@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.we{
+    color: goldenrod;
+}
+.fist{
+    text-decoration: none;
+    background-image: linear-gradient(goldenrod,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+.full-width{
+    display: flex;
+    margin-bottom: 15px;
+}
+.half-width{
+    width: 70%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.full-width{
+    background-image:url(image/Frame\ 57.jpg) ;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-healthy{
+    background-image: url(image/7.png); 
+    background-repeat: no-repeat;
+    background-position: right;
+}
